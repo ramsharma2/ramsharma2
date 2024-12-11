@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ram Kumar Sharma!
+# Hi there 👋, I'm Ram!
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/ramsharma2)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-sharma-933003194)
