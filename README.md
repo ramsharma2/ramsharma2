@@ -18,21 +18,15 @@ I am a passionate developer skilled in Machine Learning, Web Development, and Da
 
 ---
 
-### 💼 Projects:
-- **Netflix Clone:** A streaming app replica built with React and Firebase ([Repo](https://github.com/ramsharma2/Netflix-Clone)).
-- **ML Data Preprocessing:** Machine Learning data preparation techniques ([Repo](https://github.com/ramsharma2/ML-Data-Preprocessing)).
+<div align="center"> <table> <tr> <td><strong>Netflix Clone</strong></td> <td> <p>A streaming app replica built with <strong>React</strong> and <strong>Firebase</strong>.</p> <a href="https://github.com/ramsharma2/Netflix-Clone"> <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Netflix Clone Repo" /> </a> </td> </tr> <tr> <td><strong>ML Data Preprocessing</strong></td> <td> <p>Machine Learning data preparation techniques for efficient model training.</p> <a href="https://github.com/ramsharma2/ML-Data-Preprocessing"> <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="ML Data Preprocessing Repo" /> </a> </td> </tr> </table> </div>
 
 ---
 
-## 🛠️ Tech Stack:
-- **Languages:** Python, JavaScript, Java
-- **Frameworks/Libraries:** React.js, Firebase, TensorFlow
-- **Tools:** Git, GitHub, Docker, AWS
+<div align="center"> <table> <tr> <td><strong>Languages:</strong></td> <td> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </td> </tr> <tr> <td><strong>Frameworks/Libraries:</strong></td> <td> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> </td> </tr> <tr> <td><strong>Tools:</strong></td> <td> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> </td> </tr> </table> </div>
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramsharma2&show_icons=true&hide_border=true)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ramsharma2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=79ff97&text_color=ffffff" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ramsharma2&hide_border=true&background=0d1117&stroke=0000&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&sideNums=ffffff&dates=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="48%" /> </div>
 
 ---
 
